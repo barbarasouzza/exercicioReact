@@ -1,0 +1,16 @@
+.nav {
+    margin: 5px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(206, 205, 205);
+    border-radius: 10px;
+    box-shadow: 1px 2px 2px rgb(197, 197, 197);
+    padding: 10px;
+    text-decoration: none;
+    color: rgb(41, 41, 41);
+    display: inline-block;
+}
+
+#container {
+    margin: 45px;
+}
+
